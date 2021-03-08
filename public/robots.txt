@@ -1,0 +1,4 @@
+User-agent: *
+Host: www.ludiipoteki.ru
+
+Sitemap: http://www.ludiipoteki.ru/sitemap.xml

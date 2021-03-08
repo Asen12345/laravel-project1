@@ -1,0 +1,1 @@
+Рассылка завершена:&nbsp;{{$dateNewsletter}} <br><div><ul><li>Кол-во адресов:&nbsp;{{$countUsers}}</li><li>Номер рассылки: {{$idNewsletter}}</li></ul></div>

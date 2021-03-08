@@ -1,0 +1,1 @@
+Новый пост в блоге <span class="mr-2">{{ $blog }}</span> {{ $title }}<br><div><ul><li>{!! $link !!}<br><br></li></ul>Вы можете отписаться по уведомлений ссылке:&nbsp;{!! $unsubscribe !!}</div>

@@ -1,0 +1,1 @@
+<p>Новый комментарий к записи на сайте ЛюдиИпотеки:</p><ul><li><span class="mr-2">Название блога: {{ $blog_name }}</span></li><li><span class="mr-2">Название записи: {{ $post_name }}</span></li><li><span class="mr-2">Имя отправившего: {{ $user_from }}</span></li><li><span class="mr-2">Ссылка на комментарий: {!! $link !!}</span><br></li></ul>
