@@ -1,2 +1,0 @@
-# ludiipoteki.ru
-
